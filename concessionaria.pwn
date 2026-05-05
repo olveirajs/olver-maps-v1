@@ -6,17 +6,18 @@
  *
  * ----------------------------------------------------------------
  *
- * HOW TO USE
+ * HOW TO USE / COMO USAR
  *
  * 1. Make sure the Streamer plugin is installed.
- *    → github.com/samp-incognito/samp-streamer-plugin
+ *    Certifique-se de que o plugin Streamer esta instalado.
+ *    github.com/samp-incognito/samp-streamer-plugin
  *
- * 2. At the top of your gamemode, include:
+ * 2. Add at the top of your gamemode / Adicione no topo do seu gamemode:
  *
  *       #include <streamer>
  *
- * 3. Paste this entire file anywhere in your gamemode,
- *    then call the function inside OnGameModeInit:
+ * 3. Paste this file into your gamemode and call inside OnGameModeInit.
+ *    Cole este arquivo no seu gamemode e chame dentro do OnGameModeInit:
  *
  *       public OnGameModeInit()
  *       {
