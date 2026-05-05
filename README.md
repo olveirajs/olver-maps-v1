@@ -1,4 +1,4 @@
-# olver-maps-v1
+# olver-maps
 
 Two SA-MP maps released for free to the community.  
 Dois mapas para SA-MP liberados de graça para a comunidade.
@@ -83,15 +83,15 @@ Os dois mapas são totalmente editáveis. Você pode mover, remover ou adicionar
 
 | | |
 |---|---|
-| ![Frente](https://media.discordapp.net/attachments/1500504969458225405/1501077271556132995/sa-mp-001.png) | ![Interior](https://media.discordapp.net/attachments/1500504969458225405/1501077287444152440/sa-mp-002.png) |
-| ![Interior v2](https://media.discordapp.net/attachments/1500504969458225405/1501077305290658002/sa-mp-003.png) | ![Interior v3](https://media.discordapp.net/attachments/1500504969458225405/1501079061387280525/sa-mp-008.png) |
+| ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/sa-mp-001.png) | ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/sa-mp-002.png) |
+| ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/sa-mp-003.png) | ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/sa-mp-008.png) |
 
 ### Prefeitura Municipal
 
 | | |
 |---|---|
-| ![Frente](https://media.discordapp.net/attachments/1500504969458225405/1501077322546286602/sa-mp-004.png) | ![Próximo](https://media.discordapp.net/attachments/1500504969458225405/1501077338039783494/sa-mp-005.png) |
-| ![Interior](https://media.discordapp.net/attachments/1500504969458225405/1501077359875588216/sa-mp-006.png) | ![Interior v2](https://media.discordapp.net/attachments/1500504969458225405/1501077377256783872/sa-mp-007.png) |
+| ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/sa-mp-004.png) | ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/sa-mp-005.png) |
+| ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/sa-mp-006.png) | ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/sa-mp-007.png) |
 
 ---
 
