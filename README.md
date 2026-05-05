@@ -1,4 +1,4 @@
-# olver-maps-v1
+# olver-maps
 
 Two SA-MP maps released for free to the community.  
 Dois mapas para SA-MP liberados de graça para a comunidade.
@@ -83,15 +83,15 @@ Os dois mapas são totalmente editáveis. Você pode mover, remover ou adicionar
 
 | | |
 |---|---|
-| ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/sa-mp-001.png) | ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/sa-mp-002.png) |
-| ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/sa-mp-003.png) | ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/sa-mp-008.png) |
+| ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/screenshots/sa-mp-001.png) | ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/screenshots/sa-mp-002.png) |
+| ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/screenshots/sa-mp-003.png) | ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/screenshots/sa-mp-008.png) |
 
 ### Prefeitura Municipal
 
 | | |
 |---|---|
-| ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/sa-mp-004.png) | ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/sa-mp-005.png) |
-| ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/sa-mp-006.png) | ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/sa-mp-007.png) |
+| ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/screenshots/sa-mp-004.png) | ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/screenshots/sa-mp-005.png) |
+| ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/screenshots/sa-mp-006.png) | ![](https://raw.githubusercontent.com/olveirajs/olver-maps-v1/main/screenshots/sa-mp-007.png) |
 
 ---
 
