@@ -1,4 +1,4 @@
-# olver-maps
+# olver-maps-v1
 
 Two SA-MP maps released for free to the community.  
 Dois mapas para SA-MP liberados de graça para a comunidade.
