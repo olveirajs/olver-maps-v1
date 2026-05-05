@@ -6,17 +6,18 @@
  *
  * ----------------------------------------------------------------
  *
- * HOW TO USE
+ * HOW TO USE / COMO USAR
  *
  * 1. Make sure the Streamer plugin is installed.
- *    → github.com/samp-incognito/samp-streamer-plugin
+ *    Certifique-se de que o plugin Streamer esta instalado.
+ *    github.com/samp-incognito/samp-streamer-plugin
  *
- * 2. At the top of your gamemode, include:
+ * 2. Add at the top of your gamemode / Adicione no topo do seu gamemode:
  *
  *       #include <streamer>
  *
- * 3. Paste this entire file anywhere in your gamemode,
- *    then call the function inside OnGameModeInit:
+ * 3. Paste this file into your gamemode and call inside OnGameModeInit.
+ *    Cole este arquivo no seu gamemode e chame dentro do OnGameModeInit:
  *
  *       public OnGameModeInit()
  *       {
@@ -24,13 +25,16 @@
  *           return 1;
  *       }
  *
- * 4. Inside OnPlayerConnect, add:
+ * 4. Add inside OnPlayerConnect / Adicione dentro do OnPlayerConnect:
  *
  *       public OnPlayerConnect(playerid)
  *       {
  *           RemoveBuildingForPlayer(playerid, 1308, -2381.790, -40.414, 34.625, 0.250);
  *           return 1;
  *       }
+ *
+ *    Removes a native GTA:SA building overlapping the map.
+ *    Remove uma construcao nativa do GTA SA que sobrepoem o mapa.
  *
  * ----------------------------------------------------------------
  */
