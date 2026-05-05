@@ -1,49 +1,50 @@
 # samp-open-maps
 
-Two SA-MP maps released for free to the community.
-
-> Dois mapas para SA-MP liberados de graça para a comunidade.
+Two SA-MP maps released for free to the community.  
+Dois mapas para SA-MP liberados de graça para a comunidade.
 
 ---
 
-## Maps
+## Maps / Mapas
 
 ### Prefeitura Municipal
 City hall with detailed exterior and interior.  
 Prefeitura com exterior e interior detalhados.
 
-- **638 objects**
-- Location: San Fierro — `X: -2873.13  Y: 422.74  Z: 4.14`
-- File: [`prefeitura/prefeitura.pwn`](prefeitura/prefeitura.pwn)
+- **638 objects / objetos**
+- Location / Localização: San Fierro — `X: -2873.13  Y: 422.74  Z: 4.14`
+- File / Arquivo: [`prefeitura/prefeitura.pwn`](prefeitura/prefeitura.pwn)
 
 ### Concessionária de Veículos
 Car dealership with showroom and parking.  
 Concessionária com showroom e estacionamento.
 
-- **353 objects**
-- Location: Las Venturas — `X: -2383.75  Y: -47.53  Z: 36.90`
-- File: [`concessionaria/concessionaria.pwn`](concessionaria/concessionaria.pwn)
+- **353 objects / objetos**
+- Location / Localização: Las Venturas — `X: -2383.75  Y: -47.53  Z: 36.90`
+- File / Arquivo: [`concessionaria/concessionaria.pwn`](concessionaria/concessionaria.pwn)
 
 ---
 
-## Requirements
+## Requirements / Requisitos
 
 - SA-MP 0.3.7+
 - [Streamer Plugin](https://github.com/samp-incognito/samp-streamer-plugin)
 
 ---
 
-## Installation
+## Installation / Instalação
 
-**1.** Install the Streamer plugin if you haven't already.
+**1.** Install the Streamer plugin if you haven't already.  
+**1.** Instale o plugin Streamer caso ainda não tenha.
 
-**2.** Add at the top of your gamemode:
+**2.** Add at the top of your gamemode / Adicione no topo do seu gamemode:
 
 ```pawn
 #include <streamer>
 ```
 
-**3.** Copy the `.pwn` file content into your gamemode and call the function inside `OnGameModeInit`:
+**3.** Copy the `.pwn` file content into your gamemode and call the function inside `OnGameModeInit`.  
+**3.** Copie o conteúdo do arquivo `.pwn` para o seu gamemode e chame a função dentro do `OnGameModeInit`:
 
 ```pawn
 public OnGameModeInit()
@@ -54,7 +55,7 @@ public OnGameModeInit()
 }
 ```
 
-**4.** Prefeitura only — add inside `OnPlayerConnect`:
+**4.** Prefeitura only — add inside `OnPlayerConnect` / Apenas para a Prefeitura — adicione dentro do `OnPlayerConnect`:
 
 ```pawn
 public OnPlayerConnect(playerid)
@@ -69,12 +70,13 @@ public OnPlayerConnect(playerid)
 
 ---
 
-## Credits
+## Credits / Créditos
 
-Maps purchased from [this store](https://discord.gg/gz2wWPftK7), released to the community by [olveirajs](https://github.com/olveirajs).
+Maps purchased from / Mapas adquiridos na [loja](https://discord.gg/gz2wWPftK7), released to the community by / liberados para a comunidade por [olveirajs](https://github.com/olveirajs).
 
 ---
 
-## License
+## License / Licença
 
-MIT — free to use in any server, public or private.
+MIT — free to use in any server, public or private.  
+MIT — livre para usar em qualquer servidor, público ou privado.
